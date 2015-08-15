@@ -1,11 +1,4 @@
 Meteor.startup ->
-  if Meteor.users.find().count() is 0
-    options =
-      email: "frederick.bouchard88@gmail.com"
-      password: "627dada"
-      roles: ['admin']
-    Accounts.createUser options
-
   if Events.find().count() is 0
     Events.insertTranslations {name: "Participants arrival", time: "12h30-13h30", id:1, speaker: null, day: "1"}, {fr: {name: "Arrivée des participants"}}
     Events.insertTranslations {name: "First conference", time: "13h30-14h30", id:2, speaker: null, day: "1"}, {fr: {name: "Première conférence"}}

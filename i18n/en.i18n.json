@@ -5,29 +5,6 @@
 	"configTitle": "Starter for colloque project",
 	"configSubtitle": "Server: Node, DB: Mongo, Framework: Meteor",
 
-	/*Home*/
-	"getstarted": "Get Started",
-	"user-interface": "User Interface",
-	"dashboard": "Go to dashboard",
-	"learn": "Learn more",
-	"intro": "Make Meteor Apps. Fast.",
-	"how": "How It Works",
-	"step_1": "Step 1",
-	"step_1_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-	"step_2": "Step 2",
-	"step_2_text": "Oratio me istius philosophi non offendit; Qua tu etiam inprudens utebare non numquam.",
-	"step_3": "Step 3",
-	"step_3_text": "Et ille ridens: Video, inquit, quid agas; Duo Reges: constructio interrete.",
-	"section_ipad_header": "A revolutionary product",
-	"section_ipad_text": "Do really cool stuff really quickly",
-	"section_ipad_btn": "Made by MeteorFactory",
-	"final_text": "Your life will be instantly better",
-	"final_cta": "Take a look",
-
-	/*Shared*/
-
-	"favorite": "Favorite",
-
 	 /*Navbar*/
 	"admin": "Admin",
 	"profile": "Profile",
@@ -46,7 +23,7 @@
 	"homepageSubText": "January 9-10 2016",
 
 	/*Not Found*/
-	"not_found": "Nothing here",
+	"not_found": "Nothing here, you'd propably misstype the URL press on logo to redirect to home page",
 
 	/*Dashboard*/
 	"add_post": "Add a Post",
@@ -99,7 +76,7 @@
 
 	/*Map*/
 
-	"map_title": "We're pleased to welcome our many students at the following location: ",
+	"map_title": "We're pleased to welcome you at the following location: ",
 	"event_address": ", 350 Saint-Paul E, Montreal, QC, H2Y 1H2",
 
 	/*IESucks*/
